@@ -6,11 +6,7 @@ Ce projet a été réalisé dans le cadre du premier semestre du BUT. Il s'agit 
 Le projet a été réalisé par Benoit FERRANDINI & Denis DELMAS.
 
 ## Installation
-Pour installer les dépendances nécessaires, vous pouvez utiliser la commande suivante dans votre terminal :
-
-```pip install -r requirements.txt```
-
-Ensuite, pour lancer le projet, vous pouvez exécuter la commande suivante :
+Après avoir cloné le repo, pour lancer le projet, vous pouvez exécuter la commande suivante :
 
 ```python3 projet.py```
 
